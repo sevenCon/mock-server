@@ -1,7 +1,7 @@
 // 配置 Mock 路径
 require.config({
     paths: {
-        mock: 'mock'
+        mock: '../lib/mock'
     }
 });
 
